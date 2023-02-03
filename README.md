@@ -4,13 +4,14 @@
 <h3 align="center">An open source enthusiast. Loves to contribute good.
 </h3>
 </pre>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandanupadhyay2611" alt="nandanupadhyay2611" /></a> </p>
 
 <img align="right" alt="Coding" width="250"  src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 
 
 <p align="left"> <a href="https://twitter.com/the_nandanu" target="blank"><img src="https://img.shields.io/twitter/follow/the_nandanu?logo=twitter&style=for-the-badge" alt="the_nandanu" /></a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandanupadhyay2611" alt="nandanupadhyay2611" /></a> </p>
+
 
 - 🌱 I’m currently learning **Kotlin, Android development , Dsa.**
 
