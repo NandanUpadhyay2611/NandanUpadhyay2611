@@ -2,11 +2,10 @@
 <h1 align="center">Hi 👋, I'm Nandan Upadhyay</h1>
 <pre>
 <h3 align="center">An open source enthusiast. Loves to contribute good.
-<br>
 </h3>
 </pre>
 
-<img align="right" alt="Coding" width="300" margin:25px src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="right" alt="Coding" width="250"  src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandanupadhyay2611" alt="nandanupadhyay2611" /></a> </p>
 
