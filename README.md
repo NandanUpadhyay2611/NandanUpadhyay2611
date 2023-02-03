@@ -1,5 +1,6 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)
 <h1 align="center">Hi 👋, I'm Nandan Upadhyay</h1>
-<h3 align="center">A open source enthusiast. Loves to contribute good.</h3>
+<h3 align="center">An open source enthusiast. Loves to contribute good.</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandanupadhyay2611" alt="nandanupadhyay2611" /></a> </p>
