@@ -27,5 +27,5 @@
 </p>
 <div align="center">
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NandanUpadhyay2611)](https://github.com/NandanUpadhyay2611/github-readme-stats)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=menotnandan)](https://github.com/menotnandan/github-readme-stats)
 </div>
