@@ -12,7 +12,7 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://twitter.com/shubhxm_mishra" target="_blank">
+  <a href="https://x.com/the_NandanU" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/nandanupadhyay/" target="_blank">
